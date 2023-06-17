@@ -39,9 +39,6 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 - ``International Journal of Distributed Sensor Networks`` HackerRank: identifying key hackers in underground forums. Cheng Huang, Yongyan Guo, Wenbo Guo, and **Ying Li**. | [PDF](https://journals.sagepub.com/doi/pdf/10.1177/15501477211015145)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Undergraduate Award, Sichuan Province
