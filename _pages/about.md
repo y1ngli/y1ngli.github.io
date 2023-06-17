@@ -31,8 +31,9 @@ I am broadly interested in the data-driven security, IoT security, and program a
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class="badge">CVPR 2016</div>
 
-- ``Usenix Security 2023`` CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen  [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[[Code]](https://github.com/waugustus/CarpetFuzz)
+- ``Usenix Security 2023`` CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen  [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[[Code]](https://github.com/waugustus/CarpetFuzz)
   
 - ``CCS 2022`` Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen [[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)| [[Code]](https://sites.google.com/view/twitterspamsms)
 
