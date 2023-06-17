@@ -27,17 +27,18 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I joined CUHK as a Research Assistant.
+- *2023.01*: &nbsp;🎉🎉 Carpetfuzz accepted to Usenix Security'23.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-- ``Usenix Security 2023`` CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen  |[PDF](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[Code](https://github.com/waugustus/CarpetFuzz)
+- ``Usenix Security 2023`` CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen  [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[[Code]](https://github.com/waugustus/CarpetFuzz)
   
-- ``CCS 2022`` Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen |[PDF](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)| [Code](https://sites.google.com/view/twitterspamsms)
+- ``CCS 2022`` Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen [[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)| [[Code]](https://sites.google.com/view/twitterspamsms)
 
-- ``Journal of Information Security and Applications`` NEDetector: Automatically extracting cybersecurity neologisms from hacker forums. **Ying Li**, Jiaxing Cheng, Cheng Huang, Zhouguo Chen, and Weina Niu |[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000302)
+- ``Journal of Information Security and Applications`` NEDetector: Automatically extracting cybersecurity neologisms from hacker forums. **Ying Li**, Jiaxing Cheng, Cheng Huang, Zhouguo Chen, and Weina Niu [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000302)
 
-- ``International Journal of Distributed Sensor Networks`` HackerRank: identifying key hackers in underground forums. Cheng Huang, Yongyan Guo, Wenbo Guo, and **Ying Li**. | [PDF](https://journals.sagepub.com/doi/pdf/10.1177/15501477211015145)
+- ``International Journal of Distributed Sensor Networks`` HackerRank: identifying key hackers in underground forums. Cheng Huang, Yongyan Guo, Wenbo Guo, and **Ying Li**. [[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/15501477211015145)
 
 
 # 🎖 Honors and Awards
@@ -50,9 +51,6 @@ I am broadly interested in the data-driven security, IoT security, and program a
 - *2017.09 - 2021.06*, School of Cyber Science and Engineering, Sichuan University, China.
 - *2019.07 - 2019.08*, Summer School in CS, National University of Singapore.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Work Experience
+# 💻 Experience
 - *2023.06 - 2023.09*, Research Assistant, Chinese University of Hong Kong.
