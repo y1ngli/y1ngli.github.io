@@ -31,12 +31,17 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 # 📝 Publications 
 
+- ``Usenix Security 2023`` CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen  |[PDF](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[Code](https://github.com/waugustus/CarpetFuzz)
+  
+- ``CCS 2022`` Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen |[PDF](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)| [Code](https://sites.google.com/view/twitterspamsms)
+
+- ``Journal of Information Security and Applications`` NEDetector: Automatically extracting cybersecurity neologisms from hacker forums. **Ying Li**, Jiaxing Cheng, Cheng Huang, Zhouguo Chen, and Weina Niu |[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000302)
+
+- ``International Journal of Distributed Sensor Networks`` HackerRank: identifying key hackers in underground forums. Cheng Huang, Yongyan Guo, Wenbo Guo, and **Ying Li**. | [PDF](https://journals.sagepub.com/doi/pdf/10.1177/15501477211015145)
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) Dawei Wang, Ying Li, Zhiyu Zhang, Kai Chen
-
-[Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)
 
 <!-- # 📝 Publications 
 
@@ -51,8 +56,9 @@ I am broadly interested in the data-driven security, IoT security, and program a
 - [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* Outstanding Undergraduate Award, Sichuan Province
+- *2020.05* Good Future Scholarship, Sichuan University (1/126)
+- *2018.12* Cybersecurity Merit Student Scholarship
 
 # 📖 Educations
 - *2021.09 - 2023.04*, Institue of Information and Engineering, University of Chinese Academy of Sciences, China.
