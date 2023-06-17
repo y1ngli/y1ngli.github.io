@@ -36,6 +36,7 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 [CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) Dawei Wang, Ying Li, Zhiyu Zhang, Kai Chen
 
+[Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)
 
 <!-- # 📝 Publications 
 
