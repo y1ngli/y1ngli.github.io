@@ -31,19 +31,23 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)
+[CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) Dawei Wang, Ying Li, Zhiyu Zhang, Kai Chen
 
-Dawei Wang, Ying Li, Zhiyu Zhang, Kai Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<!-- # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Defending Byzantine Attacks in Ensemble Federated Learning: A Reputation-based Phishing Approach](https://github.com), 1st student author, **IEEE FGCS**
+- [FLPhish: Reputation-based Phishing Byzantine Defense in Ensemble Federated Learning](https://github.com), 1st student author, **IEEE ISCC**
+- [FedVANET: Efficient Federated Learning with Non-IID Data for Vehicular Ad Hoc Networks](https://github.com), **IEEE GlobeCom**
+- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Method](https://github.com), 1st student author, **IEEE CSE**
+- [TANGRAM: Automating Execution Planning for Distributed Deep Neural Network](https://github.com), 1st author, **In submission**
+- [DimT-SL: Mitigating Label Leakage in Two-Party Split Learning](https://github.com), 1st author, **In submission**
+- [FedCliP: Communication Efficient Federated Learning with Client Pruning](https://github.com), **In submission**
+- [EVS: An Efficient Vantage Point Selection Algorithm for Router Geolocation](https://github.com), **In submission**
+- [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
