@@ -32,9 +32,9 @@ I am broadly interested in the data-driven security, IoT security, and program a
 
 # 📝 Publications 
 
--  CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen (**Usenix Security 2023**) [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei)|[[Code]](https://github.com/waugustus/CarpetFuzz)
+-  CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen (**Usenix Security 2023**) [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) [[Code]](https://github.com/waugustus/CarpetFuzz)
   
--  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351)| [[Code]](https://sites.google.com/view/twitterspamsms)
+-  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
 -  NEDetector: Automatically extracting cybersecurity neologisms from hacker forums. **Ying Li**, Jiaxing Cheng, Cheng Huang, Zhouguo Chen, and Weina Niu (**Journal of Information Security and Applications)**[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000302)
 
