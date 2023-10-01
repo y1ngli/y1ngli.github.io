@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ying Li(李滢)"
-description              : "Research Assistant at Chinese University of Hong Kong(CUHK). Focusing on security&privacy"
+description              : "PhD student at UCLA. Focusing on security&privacy"
 repository               : "y1ngli/y1ngli.github.io"
 google_scholar_stats_use_cdn : false #true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ying Li"
   avatar           : "images/avatar.jpg"
-  bio              : "Incoming PhD student at UCLA "
-  location         : "Maliushui, HongKong"
+  bio              : "PhD student at UCLA "
+  location         : "Los Angeles, United States"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=rJO3CPUAAAAJ"
   email            : "ying.li@ucla.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : y1n9li
   vine             :
   weibo            :
   xing             :
