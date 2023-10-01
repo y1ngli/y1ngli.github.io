@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Ying Li. I'm an  Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
+Hi, this is Ying Li. I'm a first-year Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
 
 I am broadly interested in real-world computer security and privacy topics, particularly focused on data-driven security, program analysis,  and software security.
 
