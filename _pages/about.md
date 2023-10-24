@@ -29,6 +29,7 @@ I am incredibly grateful for the professional help and guidance from my great ad
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
+- *2023.10*: 🎉🎉 
 - *2023.05*: &nbsp;🎉🎉 I joined CUHK as a Research Assistant.
 - *2023.01*: &nbsp;🎉🎉 Carpetfuzz accepted to Usenix Security'23.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -45,11 +46,13 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 
 # 🎖 Honors and Awards
+- *2023.10* Student Mentee, ACM CCS 2023
 - *2021.06* Outstanding Undergraduate Award, Sichuan Province
 - *2020.05* Good Future Scholarship, Sichuan University (1/126)
 - *2018.12* Cybersecurity Merit Student Scholarship
 
 # 📖 Educations
+- *2023.09 - present*, Electrical and Computer Engineering, University of California, Los Angeles
 - *2021.09 - 2023.04*, Institue of Information and Engineering, University of Chinese Academy of Sciences, China.
 - *2017.09 - 2021.06*, School of Cyber Science and Engineering, Sichuan University, China.
 - *2019.07 - 2019.08*, Summer School in CS, National University of Singapore.
@@ -57,3 +60,7 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 # 💻 Experience
 - *2023.06 - 2023.09*, Research Assistant, Chinese University of Hong Kong.
+
+#  🏃‍♀️Services
+
+- *2023*, Artifact Evaluation Committee, ACM CCS.
