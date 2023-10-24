@@ -29,10 +29,9 @@ I am incredibly grateful for the professional help and guidance from my great ad
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
-- *2023.10*: 🎉🎉 
+- *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.
 - *2023.05*: &nbsp;🎉🎉 I joined CUHK as a Research Assistant.
-- *2023.01*: &nbsp;🎉🎉 Carpetfuzz accepted to Usenix Security'23.
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
