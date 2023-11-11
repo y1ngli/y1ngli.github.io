@@ -62,4 +62,6 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 #  🏃‍♀️Services
 
+- *2024*, Junior Program Committee, 21st International
+  Conference on Mining Software Repositories (MSR)
 - *2023*, Artifact Evaluation Committee, ACM CCS.
