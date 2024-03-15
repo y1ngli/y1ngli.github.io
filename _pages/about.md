@@ -40,6 +40,7 @@ I am incredibly grateful for the professional help and guidance from my great ad
 -  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
 # 🎖 Honors and Awards
+- *2024.02* Student Travel Grant, NDSS 2024
 - *2023.10* Student Mentee, ACM CCS 2023
 - *2021.06* Outstanding Undergraduate Award, Sichuan Province
 - *2020.05* Good Future Scholarship, Sichuan University (1/126)
@@ -59,6 +60,7 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 ## Committee
 
+- *2024*, Artifact Evaluation Committee, ISSTA
 - *2024*, Junior Program Committee, 21st International
   Conference on Mining Software Repositories (MSR)
 - *2023*, Artifact Evaluation Committee, ACM CCS.
