@@ -60,11 +60,13 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 ## Committee
 
-- *2024*, Artifact Evaluation Committee, ISSTA
-- *2024*, Junior Program Committee, 21st International
-  Conference on Mining Software Repositories (MSR)
-- *2023*, Artifact Evaluation Committee, ACM CCS.
+- Junior Program Committee: 2024 MSR
+- Artifact Program Committee: ACM CCS'23 AEC, ISSTA'24 AEC, ACM CCS'24 AEC
 
 ## External Reviewer
 
 - 2024, Usenix Security
+
+#  🥰Personal
+
+I love to go traveling🏖, hiking, long-distance running🏃‍♀️, and experience any exciting activities(e.g., bungee jumping, skydiving🪂) in my spare time.
