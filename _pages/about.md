@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, this is Ying Li. I'm a first-year Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
 
-I am broadly interested in real-world computer security and privacy topics, particularly focused on LLM for code, data-driven security, program analysis,  and software security.
+I am broadly interested in real-world computer security and privacy topics, particularly focused on LLM for code, data-driven security, privacy, and program synthesis.
 
 I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.edu.cn/), and after that, I studied at [University of Chinese Academy of Sciences(UCAS)](https://english.ucas.ac.cn/). I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
 
@@ -29,6 +29,8 @@ I am incredibly grateful for the professional help and guidance from my great ad
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
+- *2024.06*: I will sever as an AEC member for PoPETS 2025.
+- *2024.04*: I will serve as an AEC member for CCS 2024.
 - *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.
 - *2023.05*: &nbsp;🎉🎉 I joined CUHK as a Research Assistant.
   <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -58,14 +60,18 @@ I am incredibly grateful for the professional help and guidance from my great ad
 
 #  🏃‍♀️Services
 
-## Committee
+## Committee(Reviewers)
 
-- Junior Program Committee: 2024 MSR
-- Artifact Program Committee: ACM CCS'23 AEC, ISSTA'24 AEC, ACM CCS'24 AEC
+- Program Committee: NeurIPs 2025
+- Junior Program Committee: MSR 2025
+- Artifact Evaluation Program Committee: ACM CCS'23, ISSTA'24, ACM CCS'24, PoPETS'25
 
 ## External Reviewer
-
+- 2025, Security & Privacy
 - 2024, Usenix Security
+
+## Leadership & Activities
+- 2024, Organizer for UCLA Los Angeles Computing Circle(LACC)
 
 #  🥰Personal
 
