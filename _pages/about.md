@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Ying Li. I'm a first-year Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
+Hi, this is Ying Li. I'm a 2nd-year Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
 
-I am broadly interested in real-world computer security and privacy topics, particularly focused on LLM for code, data-driven security, privacy, and program synthesis.
+I am broadly interested in real-world computer security and privacy topics, particularly focused on LLM for code, data-driven security, privacy compliance, and program synthesis.
 
 I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.edu.cn/), and after that, I studied at [University of Chinese Academy of Sciences(UCAS)](https://english.ucas.ac.cn/). I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
 
@@ -29,10 +29,11 @@ I am incredibly grateful for the professional help and guidance from my great ad
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
-- *2024.06*: I will sever as an AEC member for PoPETS 2025.
+- *2024.06*: I will serve as an AEC member for PoPETS 2025.
+- *2024.05*: I received Summer School on Formal Techniques Travel Grant
 - *2024.04*: I will serve as an AEC member for CCS 2024.
+- *2024.01*: I received OpenAI Researcher Access Program Credit.
 - *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.
-- *2023.05*: &nbsp;🎉🎉 I joined CUHK as a Research Assistant.
   <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -41,8 +42,12 @@ I am incredibly grateful for the professional help and guidance from my great ad
   
 -  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
+- See more in [Google Scholar](https://scholar.google.com/citations?user=rJO3CPUAAAAJ)
+
 # 🎖 Honors and Awards
+- *2024.10* UCLA graduate student fellowship, 2024
 - *2024.02* Student Travel Grant, NDSS 2024
+- *2024.01* OpenAI Researcher Access Program, OpenAI 2024
 - *2023.10* Student Mentee, ACM CCS 2023
 - *2021.06* Outstanding Undergraduate Award, Sichuan Province
 - *2020.05* Good Future Scholarship, Sichuan University (1/126)
