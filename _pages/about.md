@@ -23,7 +23,7 @@ I am broadly interested in real-world computer security and privacy topics, incl
 
 I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.edu.cn/), and after that, I studied at [University of Chinese Academy of Sciences(UCAS)](https://english.ucas.ac.cn/). I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
 
-I am incredibly grateful for the professional help and guidance from my great advisors and collaborators, including Prof. [Kai Chen](http://kaichen.org/) at UCAS, Prof. [Xianghang Mi](https://xianghang.me/) at USTC, Prof. [Sze Yiu Chau](https://szeyiuchau.github.io/) at CUHK and Prof. [Cheng Huang](https://chenghuang.org/) at SCU.
+<!--I am incredibly grateful for the professional help and guidance from my great advisors and collaborators, including Prof. [Kai Chen](http://kaichen.org/) at UCAS, Prof. [Xianghang Mi](https://xianghang.me/) at USTC, Prof. [Sze Yiu Chau](https://szeyiuchau.github.io/) at CUHK and Prof. [Cheng Huang](https://chenghuang.org/) at SCU.-->
 
 <!-- Things will go more later. -->
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
