@@ -29,7 +29,7 @@ I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.
 <!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
-- *2025.01*: I will be an Applied Scientist **Intern** in AWS proactive security group this Summer!
+- *2025.01*: I will be an Applied Scientist **Intern** in AWS proactive security group this Summer, see you in New York!
 - *2024.06*: I will serve as an AEC member for PoPETS 2025.
 - *2024.05*: I received Summer School on Formal Techniques Travel Grant
 - *2024.04*: I will serve as an AEC member for CCS 2024.
