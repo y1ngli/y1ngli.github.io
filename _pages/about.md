@@ -39,7 +39,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
   
 -  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
-- Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, ***Ying Li***<sup>*</sup>, Ronghong Huang, Xianghang Mi. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714550)
+- Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, ***Ying Li*** <sup>*</sup>, Ronghong Huang, Xianghang Mi. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714550)
 
 - See more in [Google Scholar](https://scholar.google.com/citations?user=rJO3CPUAAAAJ)
 
