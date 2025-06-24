@@ -62,7 +62,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 - *2025.06 - 2025.09*, Applied Scientist Intern, AWS.
 - *2023.06 - 2023.09*, Research Assistant, Chinese University of Hong Kong.
 
-# 🏃‍♀️Services
+# 🏃‍♀️ Services
 - Program Committee: MSR'2024(junior PC), ACM CCS'23 AEC, ISSTA'24 AEC, ACM CCS'24 AEC, PoPETS'25 AEC, Usenix Security 25'AEC, NeurIPs 2025
 - External Reviewer: Oakland'24, Usenix Security'24, Oakland'25, 
 - Leadership: [LACC](https://sites.google.com/site/computingcircle/2024-summer)'24 Coordinator
