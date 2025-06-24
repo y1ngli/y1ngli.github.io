@@ -17,34 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Ying Li. I'm a 2nd-year Ph.D. Student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). 
+Hi, this is Ying Li. I'm a 2nd-year Ph.D. student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). I received my B.E. in Cybersecurity from the School of Cyber Science and Engineering, Sichuan University, in 2021. I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
 
-I am broadly interested in real-world computer security and privacy topics, including LLM for security, automated reasoning, etc.
 
-I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.edu.cn/), and after that, I studied at [University of Chinese Academy of Sciences(UCAS)](https://english.ucas.ac.cn/). I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
+I study the security and privacy of modern software systems, combining AI (e.g., large language models) with using formal methods and program analysis to make software systems secure. My research focuses on (a) enforcing software to meet rigorous security standards and privacy regulations (e.g., GDPR), (b) automatically repairing and mitigating security risks and privacy issues in software, (c) and applying traditional security analysis methods (e.g., static analysis or fuzzing) to uncover vulnerabilities in AI systems. 
 
-<!--I am incredibly grateful for the professional help and guidance from my great advisors and collaborators, including Prof. [Kai Chen](http://kaichen.org/) at UCAS, Prof. [Xianghang Mi](https://xianghang.me/) at USTC, Prof. [Sze Yiu Chau](https://szeyiuchau.github.io/) at CUHK and Prof. [Cheng Huang](https://chenghuang.org/) at SCU.-->
 
-<!-- Things will go more later. -->
-<!-- I am broadly interested in the data-driven security, IoT security, and program analysis. -->
 
 # 🔥 News
-- *2025.01*: I will be an Applied Scientist **Intern** in AWS proactive security group this Summer, see you in New York!
+- *2025.01*: I will be an Applied Scientist Intern in AWS proactive security group this Summer, see you in New York!
 - *2024.06*: I will serve as an AEC member for PoPETS 2025.
 - *2024.05*: I received Summer School on Formal Techniques Travel Grant
 - *2024.04*: I will serve as an AEC member for CCS 2024.
 - *2024.01*: I received OpenAI Researcher Access Program Credit.
 <!--- *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.-->
-  <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- SoK: Towards Effective Automated Vulnerability Repair. **Ying Li**, Faysal Hossain Shezan, Bomin Wei, Gang Wang, Yuan Tian (**Accepted in Usenix Security 2025**)
+- SoK: Towards Effective Automated Vulnerability Repair. ***Ying Li***, Faysal Hossain Shezan, Bomin Wei, Gang Wang, Yuan Tian [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-684-li-ying.pdf)
 
 -  CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen (**Usenix Security 2023**) [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) [[Code]](https://github.com/waugustus/CarpetFuzz)
   
 -  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
-- Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, **Ying Li**<sup>*</sup>, Ronghong Huang, Xianghang Mi. (**Accepted in WWW 2025**)
+- Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, ***Ying Li***<sup>*</sup>, Ronghong Huang, Xianghang Mi. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714550)
 
 - See more in [Google Scholar](https://scholar.google.com/citations?user=rJO3CPUAAAAJ)
 
@@ -64,23 +59,14 @@ I received my Bachelor’s degree from [Sichuan University(SCU)](https://en.scu.
 
 
 # 💻 Experience
+- *2025.06 - 2025.09*, Applied Scientist Intern, AWS.
 - *2023.06 - 2023.09*, Research Assistant, Chinese University of Hong Kong.
 
-#  🏃‍♀️Services
-
-## Committee(Reviewers)
-
-- Program Committee: NeurIPs 2025
-- Junior Program Committee: MSR 2025
-- Artifact Evaluation Program Committee: ACM CCS'23, ISSTA'24, ACM CCS'24, PoPETS'25
-
-## External Reviewer
-- 2025, Security & Privacy
-- 2024, Usenix Security
-
-## Leadership & Activities
+# 🏃‍♀️Services
+- Program Committee: MSR'2024(junior PC), ACM CCS'23 AEC, ISSTA'24 AEC, ACM CCS'24 AEC, PoPETS'25 AEC, Usenix Security 25'AEC, NeurIPs 2025
+- External Reviewer: Oakland'24, Usenix Security'24, Oakland'25, 
+- Leadership: [LACC](https://sites.google.com/site/computingcircle/2024-summer)'24 Coordinator
+- Teaching Assistant: Computer Security (UCLA ECE 117/CS 38 )
 - 2024, Organizer for UCLA Los Angeles Computing Circle(LACC)
 
-#  🥰Personal
 
-I love to go traveling🏖, hiking, long-distance running🏃‍♀️, and experience any exciting activities(e.g., bungee jumping, skydiving🪂) in my spare time.
