@@ -67,6 +67,4 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 - External Reviewer: Oakland'24, Usenix Security'24, Oakland'25, 
 - Leadership: [LACC](https://sites.google.com/site/computingcircle/2024-summer)'24 Coordinator
 - Teaching Assistant: Computer Security (UCLA ECE 117/CS 38 )
-- 2024, Organizer for UCLA Los Angeles Computing Circle(LACC)
-
 
