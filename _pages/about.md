@@ -45,6 +45,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 - See more in [Google Scholar](https://scholar.google.com/citations?user=rJO3CPUAAAAJ)
 
 # 🎖 Honors and Awards
+- *2025.07* Student Travel Grant, Usenix Security 2025
 - *2024.02* Student Travel Grant, NDSS 2024
 - *2024.01* OpenAI Researcher Access Program, OpenAI 2024
 - *2023.10* Student Mentee, ACM CCS 2023
