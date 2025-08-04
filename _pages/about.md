@@ -25,7 +25,8 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 
 # 🔥 News
-- *2025.01*: I will be an Applied Scientist Intern in AWS proactive security group this Summer, see you in New York!
+- *2025.08*: One paper got accepted to NDSS, see you in San Diego!
+- *2025.06*: I started my internship at AWS, see you in New York!
 - *2024.06*: I will serve as an AEC member for PoPETS 2025.
 - *2024.05*: I received Summer School on Formal Techniques Travel Grant
 - *2024.04*: I will serve as an AEC member for CCS 2024.
