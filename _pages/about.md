@@ -25,9 +25,9 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 
 # 🔥 News
-- *2025.08*: 🎉🎉One paper got accepted to PoPets!
+- *2025.08*: 🎉🎉One paper got accepted to PoPets 2026!
 - *2025.08*: 🎉🎉I was Awarded USENIX Security Distinguished Artifact Reviewer!
-- *2025.08*: 🎉🎉One paper got accepted to NDSS, see you in San Diego!
+- *2025.08*: 🎉🎉One paper got accepted to NDSS 2026, see you in San Diego!
 - *2025.06*: 🎉🎉I started my internship at AWS, see you in New York!
 <!--- *2024.06*: I will serve as an AEC member for PoPETS 2025.-->
 <!--- *2024.05*: I received Summer School on Formal Techniques Travel Grant-->
