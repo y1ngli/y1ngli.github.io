@@ -25,27 +25,30 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 
 # 🔥 News
-- *2025.08*: One paper got accepted to NDSS, see you in San Diego!
-- *2025.06*: I started my internship at AWS, see you in New York!
-- *2024.06*: I will serve as an AEC member for PoPETS 2025.
-- *2024.05*: I received Summer School on Formal Techniques Travel Grant
-- *2024.04*: I will serve as an AEC member for CCS 2024.
+- *2025.08*: 🎉🎉One paper got accepted to PoPets!
+- *2025.08*: 🎉🎉I was Awarded USENIX Security Distinguished Artifact Reviewer!
+- *2025.08*: 🎉🎉One paper got accepted to NDSS, see you in San Diego!
+- *2025.06*: 🎉🎉I started my internship at AWS, see you in New York!
+<!--- *2024.06*: I will serve as an AEC member for PoPETS 2025.-->
+<!--- *2024.05*: I received Summer School on Formal Techniques Travel Grant-->
+<!--- *2024.04*: I will serve as an AEC member for CCS 2024.-->
 - *2024.01*: I received OpenAI Researcher Access Program Credit.
 <!--- *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.-->
 
 # 📝 Publications 
 <sup>*</sup> presents equal contribution
-- SoK: Towards Effective Automated Vulnerability Repair. ***Ying Li***, Faysal Hossain Shezan, Bomin Wei, Gang Wang, Yuan Tian (**Usenix Security 2025**) [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-684-li-ying.pdf)
+- [Usenix Security 25']SoK: Towards Effective Automated Vulnerability Repair. ***Ying Li***, Faysal Hossain Shezan, Bomin Wei, Gang Wang, Yuan Tian (**Usenix Security 2025**) [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-684-li-ying.pdf)
 
--  CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen (**Usenix Security 2023**) [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) [[Code]](https://github.com/waugustus/CarpetFuzz)
+- [Usenix Security 23']CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen (**Usenix Security 2023**) [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) [[Code]](https://github.com/waugustus/CarpetFuzz)
   
--  Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
+-  [CCS 22']Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam. Siyuan Tang, Xianghang Mi,  ***Ying Li***, Xiaofeng Wang, Kai Chen (**CCS 2022**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3548606.3559351) [[Code]](https://sites.google.com/view/twitterspamsms)
 
-- Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, <b><i>Ying Li</i></b> <sup>*</sup>, Ronghong Huang, Xianghang Mi. (**WWW 2025**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714550)
+- [WWW 25']Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter. Hongyu Wang<sup>*</sup>, <b><i>Ying Li</i></b> <sup>*</sup>, Ronghong Huang, Xianghang Mi. (**WWW 2025**)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714550)
 
 - See more in [Google Scholar](https://scholar.google.com/citations?user=rJO3CPUAAAAJ)
 
 # 🎖 Honors and Awards
+- *2025.08* Distinguished Artifact Reviewer, Usenix Security 2025
 - *2025.07* Student Travel Grant, Usenix Security 2025
 - *2024.02* Student Travel Grant, NDSS 2024
 - *2024.01* OpenAI Researcher Access Program, OpenAI 2024
