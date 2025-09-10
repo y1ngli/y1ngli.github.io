@@ -25,6 +25,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 
 # 🔥 News
+- *2025.08*: 🎉🎉One paper got accepted to IEEE S&P 2026! See you in San Francisco!
 - *2025.08*: 🎉🎉One paper got accepted to PoPETS 2026!
 - *2025.08*: 🎉🎉I was Awarded USENIX Security Distinguished Artifact Reviewer!
 - *2025.08*: 🎉🎉One paper got accepted to NDSS 2026, see you in San Diego!
@@ -32,11 +33,15 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 <!--- *2024.06*: I will serve as an AEC member for PoPETS 2025.-->
 <!--- *2024.05*: I received Summer School on Formal Techniques Travel Grant-->
 <!--- *2024.04*: I will serve as an AEC member for CCS 2024.-->
-- *2024.01*: I received OpenAI Researcher Access Program Credit.
+<!--- *2024.01*: I received OpenAI Researcher Access Program Credit.-->
 <!--- *2023.09*: 🎉🎉 I started my PhD at UCLA ECE.-->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <sup>*</sup> presents equal contribution
+- **[S&P 26']** Breaking the illusion: Automated Reasoning of GDPR Consent Violations ***Ying Li***, Wenjun Qiu, Faysal Hossain Shezan, Kunlin Cai, Michelangelo van Dam, Lisa Austin, David Lie, Yuan Tian 
+
+- **[PoPETs 26']** Location-Enhanced Information Flow for Home Automations. McKenna McCall, Ben Weinshel, Kunlin Cai, ***Ying Li***, Eric Zeng, Devika Manohar, Lujo Bauer, Limin Jia, Yuan Tian  
+
 - **[Usenix Security 25']** SoK: Towards Effective Automated Vulnerability Repair. ***Ying Li***, Faysal Hossain Shezan, Bomin Wei, Gang Wang, Yuan Tian [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-684-li-ying.pdf)
 
 - **[Usenix Security 23']** CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing. Dawei Wang, ***Ying Li***, Zhiyu Zhang, Kai Chen [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei) [[Code]](https://github.com/waugustus/CarpetFuzz)
