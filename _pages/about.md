@@ -25,7 +25,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 
 # 🔥 News
-- *2025.08*: 🎉🎉One paper got accepted to IEEE S&P 2026! See you in San Francisco!
+- *2025.09*: 🎉🎉One paper got accepted to IEEE S&P 2026! See you in San Francisco!
 - *2025.08*: 🎉🎉One paper got accepted to PoPETS 2026!
 - *2025.08*: 🎉🎉I was Awarded USENIX Security Distinguished Artifact Reviewer!
 - *2025.08*: 🎉🎉One paper got accepted to NDSS 2026, see you in San Diego!
