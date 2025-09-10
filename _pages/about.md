@@ -38,7 +38,7 @@ I study the security and privacy of modern software systems, combining AI (e.g.,
 
 # 📝 Selected Publications 
 <sup>*</sup> presents equal contribution
-- **[S&P 26']** Breaking the illusion: Automated Reasoning of GDPR Consent Violations ***Ying Li***, Wenjun Qiu, Faysal Hossain Shezan, Kunlin Cai, Michelangelo van Dam, Lisa Austin, David Lie, Yuan Tian 
+- **[S&P 26']** Breaking the illusion: Automated Reasoning of GDPR Consent Violations. ***Ying Li***, Wenjun Qiu, Faysal Hossain Shezan, Kunlin Cai, Michelangelo van Dam, Lisa Austin, David Lie, Yuan Tian 
 
 - **[PoPETs 26']** Location-Enhanced Information Flow for Home Automations. McKenna McCall, Ben Weinshel, Kunlin Cai, ***Ying Li***, Eric Zeng, Devika Manohar, Lujo Bauer, Limin Jia, Yuan Tian  
 
