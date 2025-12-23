@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Ying Li. I'm a 2nd-year Ph.D. student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). I received my B.E. in Cybersecurity from the School of Cyber Science and Engineering, Sichuan University, in 2021. I was also a research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
+Hi, this is Ying Li. I'm a 3rd-year Ph.D. student in the ECE department at [UCLA](https://www.ee.ucla.edu/), working with Prof. [Yuan Tian](https://www.ytian.info/). I received my B.E. in Cybersecurity from the School of Cyber Science and Engineering, Sichuan University, in 2021. I was also a Research Assistant at the [Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/). 
 
 
 I study the security and privacy of modern software systems, combining AI (e.g., large language models) with using formal methods and program analysis to make software systems secure. My research focuses on (a) enforcing software to meet rigorous security standards and privacy regulations (e.g., GDPR), (b) automatically repairing and mitigating security risks and privacy issues in software, (c) and applying traditional security analysis methods (e.g., static analysis or fuzzing) to uncover vulnerabilities in AI systems. 
